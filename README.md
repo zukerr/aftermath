@@ -1,2 +1,2 @@
 # Aftermath
-Android text game concept in Polish.
+Android text game in Polish in very early stage of development.
